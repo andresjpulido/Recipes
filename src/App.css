@@ -1,6 +1,6 @@
 .App-header {
     background-image: url("./assets/images/recipe.jpeg");
-    height: 150px;
+     
     /* You must set a specified height */
     background-position: center;
     /* Center the image */
@@ -11,15 +11,21 @@
 }
 
 #banner {
-    height: 350px;
+     
 }
 
-h1{
-    color: chocolate;
+h2{
+    color: chocolate !important;
+    margin-top: 1.5rem !important;
     
 }
-
-.footer {
+ 
+h4{
+    color: black !important;
+    margin-top: 1.5rem !important;
+    margin-bottom: 1.5rem !important;
+}
+footer {
     background-color: chocolate;
     text-align: center;
     color: khaki;

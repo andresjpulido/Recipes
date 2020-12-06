@@ -105,7 +105,7 @@ class TodoList extends Component {
                         </FirebaseDatabaseNode>
                     </div>
                
-               
+               <a href="">Create new</a>
             </div>
         )
     }
